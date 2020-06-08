@@ -646,6 +646,7 @@ input, select, textarea {
 
 	.image.top {
 		display: block;
+		margin-right: auto;
 		margin-left: auto;
 		margin-top: 1rem;
 		width:75%;
